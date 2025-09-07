@@ -1,1 +1,1 @@
-print ("Successfully imported act4.pyWOWW")
+print ("Successfully imported act4.")
